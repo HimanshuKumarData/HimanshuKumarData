@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **Python, Excel, Power BI, SQL**
 
-- 📫 How to reach me **800himanshukumar@gmail.com**
+- 📫 How to reach me **himanshukumaranalytics@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-kumar-7b1216191/](https://www.linkedin.com/in/himanshu-kumar-7b1216191/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/himanshu-k-301555364/](https://www.linkedin.com/in/himanshu-k-301555364/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/himanshu-kumar-7b1216191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu kumar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/himanshu-k-301555364/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu kumar" height="30" width="40" /></a>
 <a href="https://fb.com/himanshu kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="himanshu kumar" height="30" width="40" /></a>
 <a href="https://www.instagram.com/himanshukadiyan09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himanshu kadiyan" height="30" width="40" /></a>
 </p>
