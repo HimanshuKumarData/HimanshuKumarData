@@ -1,4 +1,4 @@
-![logo](https://github.com/HimanshuKumarData/HimanshuKumarData/blob/main/Github%20COver.png)
+![logo](https://github.com/HimanshuKumarData/HimanshuKumarData/blob/07c40cab155eee07cbf71532117e60b868812378/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png)
 <h1 align="center">Hi 👋, I'm Himanshu Kumar</h1>
 <h3 align="center">A passionate Data Analyst from Noida(India)</h3>
 
